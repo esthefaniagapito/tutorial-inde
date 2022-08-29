@@ -1,4 +1,10 @@
+<img src="https://inde.gov.br/](https://inde.gov.br/img/INDE%20Logo_2.png" heigth="" width="" title="Logo_INDE">
+<img src="https://inde.gov.br/](https://inde.gov.br/img/INDE%20Logo_2.png" heigth="" width="" title="Logo_IBGE">
+
 # Guia do Usuário Simplificado INDE
+Este guia tem como objetivo esclarecer de uma maneira geral e simplificada as etapas, para a inclusão de recursos geoespaciais ao catálogo de metadados da INDE. O IBGE, como Gestor do DBGD, realiza periodicamente a capacitação da Infraestrutura de Dados Espaciais, para consultar a agenda clique [aqui](https://treinamento.inde.gov.br/).
+
+🚩A distribuição deste material é realizada de forma integralmente gratuita, sendo proibida qualquer forma de uso comercial do mesmo.
 
 ## O que é uma Infraestrutura de Dados Espaciais (IDE)?
 Um conjunto integrador de tecnologias, padrões, políticas, arranjos institucionais e recursos humanos, necessários, para facilitar a disponibilização, o acesso e o uso de dados e informações geoespaciais.
@@ -68,14 +74,19 @@ Adicionando uma thumbnail.
 
 Pronto!
 
-
-
-
-
-
-
+**Contatos**
+</br>
+Autor: Esthefani Agapito
+</br>
+E-mail: esthefani.agapito@ibge.gov.br
+</br>
+Site Oficial: [INDE](https://inde.gov.br/)
+</br>
+E-mail DBGD: dbdg@inde.gov.br
 
 
 **Referências**
 </br>
 http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/decreto/d6666.htm
+</br>
+https://inde.gov.br/Capacitacao
