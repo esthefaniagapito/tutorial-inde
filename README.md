@@ -25,7 +25,54 @@ Para solicitar sua adesão à INDE siga as instruções clicando [aqui](https://
 
 ## Passo a passo para o registro de metadados
 1. Faça o login como administrador no sistema;
-2. Crie um grupo
+2. Crie um grupo.
+3. Ainda dentro do perfil de administrador inclua a equipe responsável (revisor, editor e etc).
+4. Vá em contribuir > quadro de edição > adicionar novo registro.
+5. Realize o preenchimento dos campos necessários.
+  5.1 Caso necessite de outros campos que não estejam visíveis, no canto direito superior troque o template padrão para completo.
+  5.2 Adicione os elementos que necessite.
+6. Clique em Gravar e Fechar.
+7. Para publicar vá para contribuir > selecione o recurso a ser publicado > clique em publicar
+
+As etapas seguintes devem ser utilizadas, para produtos digitais.
+
+9. Efetue login no sistema de cargas de dados da INDE.
+10. Clique em enviar arquivos > selecione os arquivos > clique em enviar.
+11. Ainda no sistema de cargas: banco e esquemas > selecionar o que foi adicionado > iniciar importação
+
+Agora dentro do Geoserver:
+
+12. Efetue login.
+13. No menu clique em layer > nova camada > selecione sua base de dados
+14. No campo de pesquisa busque digite o nome do recurso a ser vinculado > publish
+15. Irá abrir uma nova aba, edite os campos disponíveis. Dica: utilize os próprios metadados inseridos na INDE.
+16. Em metadata link clique no botão add link > cole a seguinte url https://inde.gov.br/geonetwork/srv/por/csw?service=CSW&version=2.0.2&request=GetRecordById&id=SEU_CÓDIGO_ID&elementSetName=full&outputSchema=csw:IsoRecord . Lembre-se de editar adicionando o número de identificador gerado pela INDE.
+17. Salvar.
+
+Retorne ao catálogo de metadados. 
+
+18. Selecione o recurso que está sendo vinculado o geosserviço > Clique em editar.
+19. Vamos adicionar o serviço de WMS: no lado direito > adicionar recurso online > aplicativo usando recurso > url cole o link WMS fornecido pelo Geoserver (use a última versão.
+20. Edite o nome e descrição.
+21. Salve.
+23. Siga o mesmo caminho acima para adicionar o serviço WFS, apenas troque a url pela url de WFS.
+
+Adicionando uma thumbnail.
+
+24. Ainda no lado direito clique em adicionar > vincular um 'visão geral de todo recurso ou subconjunto'.
+25. Retorne ao Geoserver > layer preview > busque o recurso > all format > selecione PNG > copie o link.
+26. Retorne catálogo de metadados e adicione a url.
+27. Edite nome e descrição.
+28. Salve.
+29. Gravar e fechar.
+
+Pronto!
+
+
+
+
+
+
 
 
 
