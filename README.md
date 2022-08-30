@@ -61,7 +61,7 @@ Neste momento os metadados do seu recurso já estão disponíveis no catálogo d
 2. No menu lateral clique em ``layer`` > ``new layer`` > ``selecione sua base de dados da etapa anterior``.
 3. Na barra de pesquisa ``digite o nome do recurso`` > clique em ``publish``.
 4. Irá abrir uma nova página semelhante ao formulário de catálogo de metadados da INDE. Edite os campos disponíveis. Dica: utilize os próprios metadados inseridos na INDE.
-5. Ainda na mesma página role até ``metadata link`` > clique no botão ``add link`` > copie a url a seguir, substituindo ``SEU_CÓDIGO_ID`` pelo ID do recurso, disponível no catálogo de metadados da INDE: ``https://inde.gov.br/geonetwork/srv/por/csw?service=CSW&version=2.0.2&request=GetRecordById&id=SEU_CÓDIGO_ID&elementSetName=full&outputSchema=csw:IsoRecord``. 
+5. Ainda na mesma página role até ``metadata link`` > clique no botão ``add link`` > copie a url a seguir, substituindo ``SEU_CÓDIGO_ID`` pelo ID do recurso, disponível no catálogo de metadados da INDE: ``https://treinamento.inde.gov.br/geonetwork/srv/por/csw?service=CSW&version=2.0.2&request=GetRecordById&id=SEU_CÓDIGO_ID&elementSetName=full&outputSchema=csw:IsoRecord``. 
 6. Clique em ``salvar``.
 
 ### Etapa 04: Vinculando o GeoServer aos Metadados
